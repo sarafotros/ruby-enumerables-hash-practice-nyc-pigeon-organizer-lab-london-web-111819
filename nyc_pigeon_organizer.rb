@@ -3,5 +3,5 @@ def nyc_pigeon_organizer(data)
   category = []
   sub_categoy = []
   
-  data.each_pair |
+  data.each_pair { |pair| 
 end
