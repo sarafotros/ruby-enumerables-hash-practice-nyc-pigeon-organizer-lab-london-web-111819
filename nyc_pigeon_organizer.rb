@@ -3,5 +3,5 @@ def nyc_pigeon_organizer(data)
   category = []
   sub_categoy = []
   
-  data.reduce({}) 
+  data.each
 end
